@@ -1,0 +1,6 @@
+#!/bin/sh
+mkdir pkg
+make DESTDIR=pkg install
+dpkg-deb -Zxz -b pkg calamares-settings-yukkuri.deb
+rm -rf pkg
+

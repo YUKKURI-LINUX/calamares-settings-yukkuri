@@ -1,0 +1,16 @@
+d38a475147058111bc7073243ae63a0e  usr/bin/add-calamares-desktop-icon
+8d58469efa5e890ac29b29b98e24b9ff  usr/bin/install-debian
+726a342ac36e842411da0f43fb02fa4d  usr/lib/calamares/modules/bootloader-config/module.desc
+4b91d31fff61107459e6ea7f22c119aa  usr/lib/calamares/modules/sources-final/module.desc
+d178b9bb370c010484b87a6ac7951a59  usr/lib/calamares/modules/sources-media-unmount/module.desc
+d4663e21d64a21aa758b12fa6d66f8b8  usr/lib/calamares/modules/sources-media/module.desc
+64ea01e3561ade4eb6f56d5a6351f921  usr/sbin/bootloader-config
+9c04a27ea7753d935b07a2f3815e30dc  usr/sbin/sources-final
+4af9e9ac83454f3dfe9a28f2ba9e0060  usr/sbin/sources-media
+fdcabf95b21b57425b4099214cd3e85f  usr/share/applications/install-debian.desktop
+882b274f94ce063bddce1aa13758a6fc  usr/share/doc/calamares-settings-debian/changelog.Debian.gz
+5845281fdb4a14c600dc85f96b0d0e98  usr/share/doc/calamares-settings-debian/changelog.gz
+21e0af09aa95f52ddca11f55366acee3  usr/share/doc/calamares-settings-debian/copyright
+78078914109ed6c55b24a15b497883da  usr/share/glib-2.0/schemas/96_calamares-settings-debian.gschema.override
+0198e0f91ed690a0dc9bdced361650ed  usr/share/lintian/overrides/calamares-settings-debian
+31bcbba8e1af018a15cc15e06b954fcb  usr/share/pixmaps/install-debian.png
