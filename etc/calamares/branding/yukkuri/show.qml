@@ -38,20 +38,12 @@ Presentation
             source: "slide1.png"
             x:0
             y:0
-            width: 467
-            height: 280
+            width: 800
+            height: 500
             fillMode: Image.PreserveAspectFit
             anchors.centerIn: parent
         }
-        Text {
-            anchors.horizontalCenter: image1.horizontalCenter
-            anchors.top: image1.bottom
-            text: "YUKKURILinuxLiteへようこそ。<br/>"+
-                  "このOSの目標は1.Xfceでもかっこよく!!2.広い年齢層にLinuxを広めること!!"
-            wrapMode: Text.WordWrap
-            width: 600
-            horizontalAlignment: Text.Center
-        }
+        
     }
     Slide {
         Image {
@@ -59,20 +51,12 @@ Presentation
             source: "slide2.png"
             x:0
             y:0
-            width: 467
-            height: 280
+            width: 800
+            height: 500
             fillMode: Image.PreserveAspectFit
             anchors.centerIn: parent
         }
-        Text {
-            anchors.horizontalCenter: image1.horizontalCenter
-            anchors.top: image1.bottom
-            text: "起動画面のデザイン<br/>"+
-                  "Kamuriki Linux開発者であるNAKAMURA様に制作していただきました。"
-            wrapMode: Text.WordWrap
-            width: 600
-            horizontalAlignment: Text.Center
-        }
+        
     }
     Slide {
         Image {
@@ -80,20 +64,12 @@ Presentation
             source: "slide3.png"
             x:0
             y:0
-            width: 467
-            height: 280
+            width: 800
+            height: 500
             fillMode: Image.PreserveAspectFit
             anchors.centerIn: parent
         }
-        Text {
-            anchors.horizontalCenter: image1.horizontalCenter
-            anchors.top: image1.bottom
-            text: "Plankドック搭載<br/>"+
-                  "メニューを開いたりアプリを起動したりできます。"
-            wrapMode: Text.WordWrap
-            width: 600
-            horizontalAlignment: Text.Center
-        }
+        
     }
     Slide {
         Image {
@@ -101,20 +77,13 @@ Presentation
             source: "slide4.png"
             x:0
             y:0
-            width: 467
-            height: 280
+            width: 800
+            height: 500
             fillMode: Image.PreserveAspectFit
             anchors.centerIn: parent
         }
-        Text {
-            anchors.horizontalCenter: image1.horizontalCenter
-            anchors.top: image1.bottom
-            text: "12個の壁紙を標準搭載。<br/>"+
-                  "また、季節の壁紙を用意しています。アップデートにより追加されます。"
-            wrapMode: Text.WordWrap
-            width: 600
-            horizontalAlignment: Text.Center
-        }
+        
+
     }
     Slide {
         Image {
@@ -122,20 +91,13 @@ Presentation
             source: "slide5.png"
             x:0
             y:0
-            width: 467
-            height: 280
+            width: 800
+            height: 500
             fillMode: Image.PreserveAspectFit
             anchors.centerIn: parent
         }
-        Text {
-            anchors.horizontalCenter: image1.horizontalCenter
-            anchors.top: image1.bottom
-            text: "Pacupコマンド標準搭載。<br/>"+
-                  "EtupOSの開発者であるペンえぬさんが開発したオリジナルコマンドを標準搭載します。"
-            wrapMode: Text.WordWrap
-            width: 600
-            horizontalAlignment: Text.Center
-        }
+        
+
     }
     Slide {
         Image {
@@ -143,19 +105,12 @@ Presentation
             source: "slide6.png"
             x:0
             y:0
-            width: 467
-            height: 280
+            width: 800
+            height: 500
             fillMode: Image.PreserveAspectFit
             anchors.centerIn: parent
         }
-        Text {
-            anchors.horizontalCenter: image1.horizontalCenter
-            anchors.top: image1.bottom
-            text: "Firefoxを標準搭載。<br/>"+
-                  "また、メニューボタン横の検索欄に検索したい内容を入力するとGoogleで検索できます。"
-            wrapMode: Text.WordWrap
-            width: 600
-            horizontalAlignment: Text.Center
-        }
+        
+
     }
 }

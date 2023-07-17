@@ -9,10 +9,10 @@ windowPlacement: center
 strings:
     productName:         YUKKURI Linux
     shortProductName:    Yukkuri
-    version:             22.04
-    shortVersion:        22.04
-    versionedName:       YUKKURI Linux 22.04
-    shortVersionedName:  Yukkuri 22.04
+    version:             1.0
+    shortVersion:        1.0
+    versionedName:       YUKKURI Linux 1.0
+    shortVersionedName:  Yukkuri 1.0
     bootloaderEntryName: Yukkuri
     productUrl:          https://sites.google.com/view/yukkuri-linux
 #    supportUrl:          https://www.debian.org/support
