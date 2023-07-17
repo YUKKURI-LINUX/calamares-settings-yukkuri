@@ -3,6 +3,6 @@ all:
 
 install:
 	@cp -r etc $(DESTDIR)/etc
-	@cp -r src $(DESTDIR)/usr
+	@cp -r src/usr $(DESTDIR)/usr
 	@cp -r DEBIAN $(DESTDIR)/DEBIAN
 
