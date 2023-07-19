@@ -11,6 +11,7 @@ if [ "$(mount | grep $CHROOT" " | cut -c -16)" = "/dev/mapper/luks" ]; then
 fi
 
 echo "Running bootloader-config..."
+DEBIAN_FRONTEND=noninteractive chroot $CHROOT apt-get update
 
 if [ -d /sys/firmware/efi/efivars ]; then
     echo " * Installing grub-efi (uefi)..."
