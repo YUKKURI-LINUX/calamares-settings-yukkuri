@@ -1,14 +1,14 @@
 Package: calamares-settings-yukkuri
 Version: 1:1.0-2
 Architecture: all
-Maintainer: Hayate Nakamura <is01.njb@gmail.com>
+Maintainer: Sylphid_Modder <bitmaster206@gmail.com>
 Installed-Size: 864
 Depends: calamares, cryptsetup, keyutils, qml-module-qtquick-window2, qml-module-qtquick2, dconf-gsettings-backend | gsettings-backend
 Provides: calamares-settings
 Section: utils
 Priority: optional
-Homepage: https://sites.google.com/view/yukkuri-linux
-Description: Yukkuri theme and settings for the Calamares Installer
+Homepage: https://yk.rsw.jp/
+Description: This package is the customized Calamares settings, used on YUKKURI Linux installation.
  Calamares is a generic installer framework for Linux distributions.
  By default, it contains a set of boilerplate wording and images. This
  package provides the latest Yukkuri artwork as well as scripts that
